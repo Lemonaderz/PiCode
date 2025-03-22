@@ -1,13 +1,13 @@
-```
+<pre>
  **How to upload code to Pico for Pulse+Vent:** 
 Install Thonny: https://thonny.org
 Connect pico while holding bootsel
 Install micropython on pico
 Save PicoCode file as main.py
 restart
-```
+</pre>
 
-```
+<pre>
 **How to setup Zero for Laryng App:**
 pip install motion
 To fix error: go to line 312 in the error file, delete the broken line, delete the following lines with just a period.
@@ -38,5 +38,5 @@ sudo nmcli con modify SIM3D ipv6.method disabled
 sudo nmcli con modify SIM3D wifi-sec.key-mgmt wpa-psk 
 sudo nmcli con modify SIM3D wifi-sec.psk "sim3d123"  
 sudo nmcli con up SIM3D 
-```
+</pre>
 

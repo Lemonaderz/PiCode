@@ -1,5 +1,5 @@
 <pre>
- **How to upload code to Pico for Pulse+Vent:** 
+<b>How to upload code to Pico for Pulse+Vent:</b>
 Install Thonny: https://thonny.org
 Connect pico while holding bootsel
 Install micropython on pico
@@ -8,7 +8,7 @@ restart
 </pre>
 
 <pre>
-**How to setup Zero for Laryng App:**
+<b>How to setup Zero for Laryng App:</b>
 pip install motion
 To fix error: go to line 312 in the error file, delete the broken line, delete the following lines with just a period.
 Motion Settings to change in config:

@@ -1,5 +1,5 @@
 **How to upload code to Pico for Pulse+Vent:**
-Install Thonny: https://thonny.org
+\nInstall Thonny: https://thonny.org
 Connect pico while holding bootsel
 Install micropython on pico
 Save PicoCode file as main.py
